@@ -1,16 +1,13 @@
 {
-	"name": "tp1",
+	"type": "module",
+	"name": "01-tp-manejo-de-archivos",
 	"version": "1.0.0",
-	"description": "tp1 de la materia TP2 - Kleiman Diego",
-	"main": "index.js",
+	"description": "TP1 de la materia Taller Programacion II",
+	"main": "main.js",
 	"scripts": {
-		"test": "node test.js",
-		"start": "node index.js"
+		"test": "node index.js"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Diegok92/ORT_TP2_TrabajoPractico1.git"
-	},
-	"author": "Kleiman Diego",
+	"keywords": [],
+	"author": "Diego Kleiman",
 	"license": "MIT"
 }

@@ -1,13 +1,16 @@
 {
-  "name": "tp1",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test.js",
-    "start": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+	"name": "tp1",
+	"version": "1.0.0",
+	"description": "tp1 de la materia TP2 - Kleiman Diego",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test.js",
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Diegok92/ORT_TP2_TrabajoPractico1.git"
+	},
+	"author": "Kleiman Diego",
+	"license": "MIT"
 }
